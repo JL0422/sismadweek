@@ -1,0 +1,11 @@
+Model Information:
+* title:	Trap door
+* source:	https://sketchfab.com/3d-models/trap-door-9052627f76574fa58a1bd15d2b7480b8
+* author:	Antoniolm (https://sketchfab.com/antoniolm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Trap door" (https://sketchfab.com/3d-models/trap-door-9052627f76574fa58a1bd15d2b7480b8) by Antoniolm (https://sketchfab.com/antoniolm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
